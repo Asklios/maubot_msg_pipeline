@@ -1,0 +1,7 @@
+api_key: "Ap1-K3y"
+api_uri: "https://api.example.com"
+
+room_map:
+  - external1: "!room1:example.com"
+  - external2: "#best-room2:example.com"
+  - external3: "!room3:example.com"

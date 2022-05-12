@@ -1,0 +1,15 @@
+maubot: 0.3.0
+id: de.asklios.msgpipe
+version: 1.0.0
+
+modules:
+- msgpipe
+main_class: MsgPipeline
+
+database: true
+extra_files:
+- base-config.yaml
+
+dependencies:
+- python-socketio
+- aiohttp
